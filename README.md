@@ -1,2 +1,2 @@
-# 7.02-Sending_Child_Elements_using_Children_Prop
+# 7.01-Sending_and_receiving_objects_As_Props_from_Parent
 Created with CodeSandbox
